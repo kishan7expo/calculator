@@ -12,3 +12,6 @@ return 0;
 
 difference=num1-num2
 printf("the difference is:%d\n",difference);
+
+product=num1*num2
+printf("the product is:%d\n",product);
